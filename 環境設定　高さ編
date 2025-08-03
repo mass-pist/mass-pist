@@ -53,7 +53,7 @@
         <p>猫背の姿勢は、頭が前に出てあごが突き出るため、重い頭を支えようと首や肩の筋肉がずっと頑張り続けることになり、ひどいこりを招きます。</p>
         <div class="image-container">
             <!-- ↓↓↓ 3枚目の画像のURLをここに貼り付け ↓↓↓ -->
-            <img src="ここにエルメで取得した「不良座位姿勢の典型例」の画像のURL" alt="ストレートネックになる仕組みのイラスト" style="max-width: 450px;">
+            <img src="https://github.com/mass-pist/mass-pist/blob/main/%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AB%E3%81%AA%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF.png" alt="ストレートネックになる仕組みのイラスト" style="max-width: 450px;">
         </div>
         <p>そして、この状態が日常になると、もっと深刻な問題が。本来、自然なS字カーブを描いているはずの首の骨が、まっすぐになってしまう「ストレートネック」です。</p>
         <div class="image-container">
